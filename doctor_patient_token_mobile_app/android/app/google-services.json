@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "713375574238",
+    "project_id": "doctortokenapplication",
+    "storage_bucket": "doctortokenapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713375574238:android:e957c855f098add1443a4f",
+        "android_client_info": {
+          "package_name": "com.doctor.patient.token.doctorPatientTokenMobileApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713375574238-m2alhakotv8k9ie56jlf5b77cmqs6c53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf81cV8dcQZ3zOaDVXtKivEXB43CtMByY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713375574238-m2alhakotv8k9ie56jlf5b77cmqs6c53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713375574238-g5mn0djor37v5qcphkm2r3n3ctmg5buk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.doctor.patient.token.doctorPatientTokenMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
